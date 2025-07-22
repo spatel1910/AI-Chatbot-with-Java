@@ -11,7 +11,7 @@ import java.util.*;
 @RequestMapping("/ask")
 public class ChatController {
 
-    private static final String API_KEY = "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";
+    private static final String API_KEY = "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";
     private static final String OPENROUTER_URL = "https://openrouter.ai/api/v1/chat/completions";
   //  private static final String MODEL_ID = "deepseek/deepseek-r1:free";
   private static final String MODEL_ID = "mistralai/mistral-7b-instruct:free";
